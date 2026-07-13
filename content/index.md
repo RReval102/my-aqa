@@ -1,8 +1,6 @@
----
-title: Welcome to Quartz
----
+# 🎓 Курс Ментор QA | Реваль
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-[[module-1|Текст]]
-[[module-2|Текст]]
+Добро пожаловать в базу знаний курса! Переходи к нужным материалам по ссылкам ниже:
+
+* [[module-1|Модуль 1. Введение в автотесты]]
+* [[module-2|Модуль 2. Основы языка Python - фундамент для автотестов]]
